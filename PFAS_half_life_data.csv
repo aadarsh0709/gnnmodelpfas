@@ -94,5 +94,5 @@ CASRN,DTXSID,PREFERRED_NAME,Species,Sex,DosingAdj,HLH,HLH_SE,Source,NObs,Multimo
 39492-91-6,DTXSID50723995,"Perfluoro-3,5,7,9,11-pentaoxadodecanoic acid",Human,Female,Other,1512,,Xu et al. 2023,1,,
 39492-90-5,DTXSID90723993,"Perfluoro-3,5,7,9-butaoxadecanoic acid",Human,Male,Other,408,,Xu et al. 2023,1,,
 39492-90-5,DTXSID90723994,"Perfluoro-3,5,7,9-butaoxadecanoic acid",Human,Female,Other,408,,Xu et al. 2023,1,,
-2058-94-8,DTXSID3032585,Perfluorobutanesulfonic acid,Rat,Male,Oral,35064,0.79,Olsen et al. 2009,1,,
-2058-94-8,DTXSID3032585,Perfluorobutanesulfonic acid,Rat,Female,Oral,35064,0.79,Olsen et al. 2009,1,,
+2058-94-8,DTXSID3032585,Perfluorobutanesulfonic acid,Human,Male,Oral,35064,0.79,Olsen et al. 2009,1,,
+2058-94-8,DTXSID3032585,Perfluorobutanesulfonic acid,Human,Female,Oral,35064,0.79,Olsen et al. 2009,1,,
