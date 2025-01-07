@@ -1,4 +1,4 @@
-CASRN,DTXSID,PREFERRED_NAME,Species,Sex,DosingAdj,HLH,HLH_SE,Source,NObs,Multimodal,FittedDist
+CASRN,DTXSID,PREFERRED_NAME,Species,Sex,DosingAdj,HalfLife.h,HLH_SE,Source,NObs,Multimodal,FittedDist
 756426-58-1,DTXSID80892506,F53B,Human,Male,Other,162060,73584,Shi et al. 2016,1,,
 756426-58-1,DTXSID80892506,F53B,Human,Female,Other,162060,73584,Shi et al. 2016,1,,
 13252-13-6,DTXSID70880215,GenX,Human,Male,Other,81,10.04158022,European Chemical Agency,1,,
